@@ -135,7 +135,7 @@ async def main():
         claude_processor = AgentAPIProcessor()
 
         website_url = st.text_input("Enter company website URL: ").strip()
-        if website_url:
+        if st.button("Analysis"):
             await process_website(website_url, web_loader, claude_processor, website_crawler)
         else:
             st.warning("❌ Invalid mode selected")
