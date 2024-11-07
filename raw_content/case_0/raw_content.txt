@@ -1,49 +1,373 @@
-Title: Steno helps attorneys find the critical insights in legal transcripts with Claude \ Anthropic
-URL: https://www.anthropic.com/customers/steno
+Title: Helping Small Teams have a Big Impact: ActionVFX Customer Story | Relevance AI
+URL: https://site.relevanceai.com/blog/actionvfx-customer-story
 
 Content:
-Case Study
+6 min read
 
-# Steno helps attorneys find the critical insights in legal transcripts with Claude
+September 20, 2024
 
-![Steno logo image](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F5f0d393ad9eb49fffecd0a52536c55a3060bb5f0-2881x1620.png&w=3840&q=75)
+# ActionVFX Customer Story
 
-Steno uses Claude 3 Opus to streamline deposition preparation for attorneys. Claude helps lawyers quickly find relevant information across vast transcripts, saving them from manually gathering and reading thousands of pages at a time.
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66f3b6fb05d4d243a6bfea91_66596a86910c7c23232c2afd_Action.png)
 
-### Analyzing long legal transcripts
+### Summary
 
-Steno provides legal support services, such as court reporting and remote depositions, to more than 1200 law firms across the United States. These legal proceedings are captured in transcripts. Attorneys often look at previous transcripts to understand, for example, how an expert witness responds to certain types of questions or whether a witness has been inconsistent in their testimony in the past.
+[h2\\
+\\
+But first, what is an AI Tool?](https://site.relevanceai.com/blog/actionvfx-customer-story#but-first-what-is-an-ai-tool)
 
-For firms that don’t use Steno, these transcripts are often stored on attorneys’ desktops or Google Drives. Finding a transcript requires sending an email to colleagues (“Has anyone deposed this expert witness before?”). Then, someone must scour several individual transcripts—each of which might be hundreds of pages long—for relevant information.
+[h2\\
+\\
+Optimizing SEO with a a suite of AI tools](https://site.relevanceai.com/blog/actionvfx-customer-story#optimizing-seo-with-a-a-suite-of-ai-tools)
 
-Steno solved this problem by offering firms centralized storage for all of their Steno transcripts. But founders Dan Anderson, Greg Hong, and Dylan Ruga saw an opportunity to go much further with generative AI.
+[h3\\
+\\
+Generating Rich Product Description Text](https://site.relevanceai.com/blog/actionvfx-customer-story#generating-rich-product-description-text)
 
-"When we asked attorneys what other technology we could build for a better litigation experience, they frequently mentioned the time-consuming and tedious nature of reading and analyzing transcripts,” explains Co-Founder Greg Hong. “When we saw what Claude could do, building Transcript Genius was a no-brainer.”
+[h2\\
+\\
+The results \*drumroll\*](https://site.relevanceai.com/blog/actionvfx-customer-story#the-results-drumroll)
 
-### Legal analysis requires crucial context
+[h2\\
+\\
+In short](https://site.relevanceai.com/blog/actionvfx-customer-story#in-short)
 
-Steno chose Claude 3 Opus to drive Transcript Genius, its AI-powered transcript analysis platform. Steno had explored AI solutions in the past, but at first, legal transcripts were too long for the available LLMs to handle. Once Claude’s 200K context window hit the market, the team knew they had the tools they needed to realize their product vision.
+#### Tags
 
-“We had a proof of concept up within a week,” says Dan Anderson, Co-Founder and Chief Technology Officer at Steno, noting that they were able to build everything needed with one and a half engineers on the project.
+Insights
 
-![App screen from Steno platform](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F610ac849a318af8e2f873d14d2d2d54756496269-1920x1080.png&w=3840&q=75)
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/667e9f210bcdbf6be54b68b2_cta.svg)
 
-### A solution attorneys can trust
+##### Recruit Bosh the BDR Agent
 
-With Transcript Genius, attorneys can easily search, analyze, and interrogate their firm’s entire repository of transcripts.
+[Request demo](https://relevanceai.com/bosh-sales-agent)
 
-“I’m litigating a legal malpractice case right now, and I asked the model to find all evidence of legal malpractice in a particular transcript,” says Dylan Ruga, President and Chief Legal Officer at Steno. “The model was able to understand four things you need to prove legal malpractice and find specific evidence relevant to those four things, which is super impressive, because there was nothing in the transcript itself that talked about the elements of proving a legal malpractice case.”
+### Share this post
 
-![App screen of the Steno platform](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F2caa3ebeed93bcbaa3b9c4a2be69737d1f5ad5e4-3840x2160.jpg&w=3840&q=75)
+https://relevanceai.com/blog/actionvfx-customer-story
 
-In the legal world, attorneys need to trust in a system before they can rely on it, and the legal world has been rightfully skeptical of many players in the generative AI space. “We’ve heard horror stories of other models citing cases that don’t actually exist. We want to build trust with our customers, and working with a high-integrity model like Claude helps preserve that trust,” Dan says.
+![](https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg)
 
-Steno used prompt engineering to ensure that Transcript Genius gives accurate results and provides a hyperlink to the exact location it’s citing within a transcript. This is especially useful to legal professionals, as formatting is inconsistent across different types of transcripts. By giving Claude plenty of guidance on how different transcripts were formatted, Steno was able to achieve the level of accuracy that attorneys demand.
+# Helping Small Teams have a Big Impact: ActionVFX Customer Story
 
-### Exposing attorneys to the power of AI
+‍
 
-Transcript Genius streamlines a previously time-consuming, error-prone workflow. Historically, attorneys have been limited by their own capacity to find and read transcripts. Thanks to Claude and the Steno engineering team, attorneys can bypass searching and analysis and focus their attention on building the strongest case possible.
+As a leading provider of visual effects footage (think explosions, gunshots and tidal waves) managing a huge catalog of visual products, the team at ActionVFX value nimble and efficient workflows. For Chief Operating Officer Luke Thompson, harnessing the power of AI was the game-changer he was looking for.
 
-“Most attorneys aren’t following the latest advancements in the AI world,” Dan adds. “For a lot of them, this is their first time being exposed to a model of Claude’s caliber. And it’s kind of mind-blowing for them.”
+From [automating tedious content creation tasks](https://site.relevanceai.com/blog/what-are-ai-agent-examples-in-hr-recruitment-and-operations) to streamlining complex business operations, Relevance AI has empowered the ActionVFX team to scale their operations with a small team. Here, we'll dive into how Luke leveraged Relevance to build a suite of custom tools that have transformed the way he works.
 
-[Share on Twitter](https://twitter.com/intent/tweet?text=https://www.anthropic.com/customers/steno)[Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://www.anthropic.com/customers/steno)
+‍
+
+Helping Small Teams have a Big Impact: ActionVFX Customer Story - YouTube
+
+Relevance AI
+
+3.71K subscribers
+
+[Helping Small Teams have a Big Impact: ActionVFX Customer Story](https://www.youtube.com/watch?v=szf1c8P7q6Y)
+
+Relevance AI
+
+Search
+
+Info
+
+Shopping
+
+Tap to unmute
+
+If playback doesn't begin shortly, try restarting your device.
+
+You're signed out
+
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+
+CancelConfirm
+
+Share
+
+Include playlist
+
+An error occurred while retrieving sharing information. Please try again later.
+
+Watch later
+
+Share
+
+Copy link
+
+[Watch on](https://www.youtube.com/watch?v=szf1c8P7q6Y&embeds_referring_euri=https%3A%2F%2Fsite.relevanceai.com%2F)
+
+0:00
+
+/ •Live
+
+•
+
+[Watch on YouTube](https://www.youtube.com/watch?v=szf1c8P7q6Y "Watch on YouTube")
+
+‍
+
+## But first, what is an AI Tool?
+
+AI tools are how you build [custom integrations](https://site.relevanceai.com/blog/what-is-an-ai-agent-builder-for-customer-support-enhancing-customer-experience-explained), [LLM prompt chains](https://site.relevanceai.com/blog/how-to-chain-llm-prompts-to-build-advanced-use-cases) or traditional automations in Relevance. You can give these tools to your agents, or use them yourself via an auto-generated app. When building AI tools in our platform, you can easily use LLMs, make API calls, access our pre-built integrations or even run custom code.
+
+‍
+
+## Optimizing SEO with a a suite of AI tools
+
+Following an SEO audit of the ActionVFX site, Luke zeroed in on several content generation issues that could be impacting search engine visibility and rankings.
+
+Top among these were:
+
+1. Non-descriptive H1 titles and [meta descriptions](https://site.relevanceai.com/blog/what-is-an-ai-agent-builder-in-marketing-and-how-it-improves-customer-engagement).
+2. Missing resources such as [product FAQs](https://site.relevanceai.com/blog/seo-optimised-faq-writer-agent).
+3. Thin product description text.
+
+‍
+
+ActionVFX faced a key challenge creating SEO optimised content at scale - the platform their website used didn't automatically generate essential elements like meta titles and H1 tags.
+
+As a first step towards improving the discoverability of their extensive product catalog, Luke built a tool to optimize H1 titles by updating them to reflect on page content.
+
+Luke established a solid foundation of [structured data](https://site.relevanceai.com/blog/what-is-an-ai-agent-for-operations-a-guide-to-revolutionizing-supply-chain-management) by using the ActionVFX sitemap to pull hundreds of URLs for product pages, blogs, and other resources, bringing these into Relevance as a data table. He then ran a bulk scraping process to capture the text from each page, and with this comprehensive dataset in hand, he was able to start building.
+
+Luke used very straightforward prompt in the LLM step for his tool:
+
+“The goal is simple: Take a scraped webpage summary and write a H1 meta title based on best practices for SEO and the contents of the page. Only reply with the meta title.”
+
+‍
+
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66e9159e91596dd734a07dcf_66276749001ca73d3e146379_ActionVFX_screenshot.png)
+
+‍
+
+By running his customized H1 title generation tool in bulk across the company's product data table, Luke effortlessly produced hundreds of optimized page titles. He was also able to apply this process to writing meta descriptions and product FAQs.
+
+Rather than dedicating valuable resources to manual content creation, he used the speed and scalability of Relevance AI to deliver an impressive number of high-performing assets.
+
+‍
+
+### Generating Rich Product Description Text
+
+The team at ActionVFX faced another challenge common for e-commerce businesses – their product pages were lacking the robust, informative content needed to engage customers and perform well in search engine rankings. With only basic product titles and sparse descriptions populating their webpages, the content was deemed too "thin" to represent value to a search engine.
+
+To solve for this, Luke built a Product Description Generator tool that could automatically create expanded, in-depth content to replace bare-bones information.
+
+The first step was to gather the necessary inputs – the product name, the existing product description, and any relevant keywords. Luke then crafted a detailed prompt for the selected LLM to work with, instructing it to use the provided product data as a foundation.
+
+‍
+
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66e9159e91596dd734a07e06_662767f5c55d65842acf720c_ActionVFX_prompt.png)
+
+‍
+
+By running this prompt against their catalog of product information, the tool was able to generate expanded descriptions that breathed new life into the thin content - a massive improvement compared to the original product specs.
+
+As LLMs often adopt a generic or unnatural tone in their writing, Luke built an additional step using Claude 2.1 to "de-ChatGPT" the descriptions, further refining them and smoothing out any robotic phrases (pun intended).
+
+As a final step, Luke built in a [fact-checking safeguard](https://site.relevanceai.com/blog/what-is-multi-agent-system-software-in-hr-a-comprehensive-guide), which referenced the original product information to verify the accuracy and technical soundness of the generated descriptions. This provided an extra layer of [quality assurance](https://site.relevanceai.com/blog/what-is-multi-agent-system-software-in-sales-strategy-a-comprehensive-guide), solving for any potential hallucinations or inconsistencies.
+
+The end result was a comprehensive, multi-step workflow that transformed ActionVFX's thin product content into detailed descriptions designed to appeal to customers and search engines.
+
+‍
+
+## The results \*drumroll\*
+
+With the suite of AI tools he built, Luke was able to instantly fix a mind-blowing 4,614 on-page SEO issues, raising ActionVFX's overall on-page SEO score from 40 to an impressive 72. This  improvement has paved the way for a significant boost in organic search visibility and traffic.
+
+‍
+
+## In short
+
+By embracing the flexibility and customization of the Relevance platform, the ActionVFX team was able to enhance their content discoverability and deliver a superior customer experience. Their journey with Relevance serves as a powerful example for other companies looking to drive growth with AI tools, and as they now explore the integration of their custom tools with [intelligent agents](https://site.relevanceai.com/blog/understanding-the-role-of-ai-and-multi-agent-systems-in-customer-support) and AI agent teams, we’re excited to see them further scale their business with the power of an [AI workforce](https://site.relevanceai.com/blog/announcing-the-ai-workforce).
+
+‍
+
+You might also like
+
+[![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66f3b70cc6d0db75fabbf402_669da1a4fa335ea9c915b29e_hackathon-showcase.png)\\
+\\
+**Relevance AI <> Build Club Global Hackathon Showcase**](https://site.relevanceai.com/blog/relevance-ai-build-club-global-hackathon-showcase)
+
+[![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66f3b6f296d6d61b4227b262_6662ce4e99a0e737a466aa30_webpage.png)\\
+\\
+**Agent: Teddy the Tool Webpage Writer**](https://site.relevanceai.com/blog/agent-teddy-the-tool-webpage-writer)
+
+[![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66f3b716f5b72adfc07222b3_665fb9c14da60ce52fc1998e_FAQ.png)\\
+\\
+**Agent: SEO-Optimised FAQ Writer**](https://site.relevanceai.com/blog/seo-optimised-faq-writer-agent)
+
+![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/65e657e1a2548c84515c8607_ideal-stars-bg.svg)
+
+![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/65dc1797ba41bda71533bd2f_prism-guy.svg)![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/65dc15f8fc23075e4991ae5c_world-guy.svg)
+
+## Build your AI workforce today!
+
+Recruit AI teammates and complete tasks on autopilot.
+
+Grow your business, not your headcount.
+
+[Try for free](https://auth.relevanceai.com/signup/) [Request demo](https://site.relevanceai.com/book-a-demo)
+
+Free plan
+
+![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/65dbf38bdf4c613e7628342e_star-icon.svg)
+
+No card required
+
+## ActionVFX Customer Story
+
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66f3b6fb05d4d243a6bfea91_66596a86910c7c23232c2afd_Action.png)
+
+![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/637cc8e66de42274becc9aab_Down-Arrow.svg)
+
+6 min read
+
+# Helping Small Teams have a Big Impact: ActionVFX Customer Story
+
+‍
+
+As a leading provider of visual effects footage (think explosions, gunshots and tidal waves) managing a huge catalog of visual products, the team at ActionVFX value nimble and efficient workflows. For Chief Operating Officer Luke Thompson, harnessing the power of AI was the game-changer he was looking for.
+
+From [automating tedious content creation tasks](https://site.relevanceai.com/blog/what-are-ai-agent-examples-in-hr-recruitment-and-operations) to streamlining complex business operations, Relevance AI has empowered the ActionVFX team to scale their operations with a small team. Here, we'll dive into how Luke leveraged Relevance to build a suite of custom tools that have transformed the way he works.
+
+‍
+
+Helping Small Teams have a Big Impact: ActionVFX Customer Story - YouTube
+
+Relevance AI
+
+3.71K subscribers
+
+[Helping Small Teams have a Big Impact: ActionVFX Customer Story](https://www.youtube.com/watch?v=szf1c8P7q6Y)
+
+Relevance AI
+
+Search
+
+Info
+
+Shopping
+
+Tap to unmute
+
+If playback doesn't begin shortly, try restarting your device.
+
+You're signed out
+
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+
+CancelConfirm
+
+Share
+
+Include playlist
+
+An error occurred while retrieving sharing information. Please try again later.
+
+Watch later
+
+Share
+
+Copy link
+
+Watch on
+
+0:00
+
+/ •Live
+
+•
+
+[Watch on YouTube](https://www.youtube.com/watch?v=szf1c8P7q6Y "Watch on YouTube")
+
+‍
+
+## But first, what is an AI Tool?
+
+AI tools are how you build [custom integrations](https://site.relevanceai.com/blog/what-is-an-ai-agent-builder-for-customer-support-enhancing-customer-experience-explained), [LLM prompt chains](https://site.relevanceai.com/blog/how-to-chain-llm-prompts-to-build-advanced-use-cases) or traditional automations in Relevance. You can give these tools to your agents, or use them yourself via an auto-generated app. When building AI tools in our platform, you can easily use LLMs, make API calls, access our pre-built integrations or even run custom code.
+
+‍
+
+## Optimizing SEO with a a suite of AI tools
+
+Following an SEO audit of the ActionVFX site, Luke zeroed in on several content generation issues that could be impacting search engine visibility and rankings.
+
+Top among these were:
+
+1. Non-descriptive H1 titles and [meta descriptions](https://site.relevanceai.com/blog/what-is-an-ai-agent-builder-in-marketing-and-how-it-improves-customer-engagement).
+2. Missing resources such as [product FAQs](https://site.relevanceai.com/blog/seo-optimised-faq-writer-agent).
+3. Thin product description text.
+
+‍
+
+ActionVFX faced a key challenge creating SEO optimised content at scale - the platform their website used didn't automatically generate essential elements like meta titles and H1 tags.
+
+As a first step towards improving the discoverability of their extensive product catalog, Luke built a tool to optimize H1 titles by updating them to reflect on page content.
+
+Luke established a solid foundation of [structured data](https://site.relevanceai.com/blog/what-is-an-ai-agent-for-operations-a-guide-to-revolutionizing-supply-chain-management) by using the ActionVFX sitemap to pull hundreds of URLs for product pages, blogs, and other resources, bringing these into Relevance as a data table. He then ran a bulk scraping process to capture the text from each page, and with this comprehensive dataset in hand, he was able to start building.
+
+Luke used very straightforward prompt in the LLM step for his tool:
+
+“The goal is simple: Take a scraped webpage summary and write a H1 meta title based on best practices for SEO and the contents of the page. Only reply with the meta title.”
+
+‍
+
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66e9159e91596dd734a07dcf_66276749001ca73d3e146379_ActionVFX_screenshot.png)
+
+‍
+
+By running his customized H1 title generation tool in bulk across the company's product data table, Luke effortlessly produced hundreds of optimized page titles. He was also able to apply this process to writing meta descriptions and product FAQs.
+
+Rather than dedicating valuable resources to manual content creation, he used the speed and scalability of Relevance AI to deliver an impressive number of high-performing assets.
+
+‍
+
+### Generating Rich Product Description Text
+
+The team at ActionVFX faced another challenge common for e-commerce businesses – their product pages were lacking the robust, informative content needed to engage customers and perform well in search engine rankings. With only basic product titles and sparse descriptions populating their webpages, the content was deemed too "thin" to represent value to a search engine.
+
+To solve for this, Luke built a Product Description Generator tool that could automatically create expanded, in-depth content to replace bare-bones information.
+
+The first step was to gather the necessary inputs – the product name, the existing product description, and any relevant keywords. Luke then crafted a detailed prompt for the selected LLM to work with, instructing it to use the provided product data as a foundation.
+
+‍
+
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66e9159e91596dd734a07e06_662767f5c55d65842acf720c_ActionVFX_prompt.png)
+
+‍
+
+By running this prompt against their catalog of product information, the tool was able to generate expanded descriptions that breathed new life into the thin content - a massive improvement compared to the original product specs.
+
+As LLMs often adopt a generic or unnatural tone in their writing, Luke built an additional step using Claude 2.1 to "de-ChatGPT" the descriptions, further refining them and smoothing out any robotic phrases (pun intended).
+
+As a final step, Luke built in a [fact-checking safeguard](https://site.relevanceai.com/blog/what-is-multi-agent-system-software-in-hr-a-comprehensive-guide), which referenced the original product information to verify the accuracy and technical soundness of the generated descriptions. This provided an extra layer of [quality assurance](https://site.relevanceai.com/blog/what-is-multi-agent-system-software-in-sales-strategy-a-comprehensive-guide), solving for any potential hallucinations or inconsistencies.
+
+The end result was a comprehensive, multi-step workflow that transformed ActionVFX's thin product content into detailed descriptions designed to appeal to customers and search engines.
+
+‍
+
+## The results \*drumroll\*
+
+With the suite of AI tools he built, Luke was able to instantly fix a mind-blowing 4,614 on-page SEO issues, raising ActionVFX's overall on-page SEO score from 40 to an impressive 72. This  improvement has paved the way for a significant boost in organic search visibility and traffic.
+
+‍
+
+## In short
+
+By embracing the flexibility and customization of the Relevance platform, the ActionVFX team was able to enhance their content discoverability and deliver a superior customer experience. Their journey with Relevance serves as a powerful example for other companies looking to drive growth with AI tools, and as they now explore the integration of their custom tools with [intelligent agents](https://site.relevanceai.com/blog/understanding-the-role-of-ai-and-multi-agent-systems-in-customer-support) and AI agent teams, we’re excited to see them further scale their business with the power of an [AI workforce](https://site.relevanceai.com/blog/announcing-the-ai-workforce).
+
+‍
+
+[![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/637ccb246f45cda06f65919e_Facebook-Light-Grey-Icon.svg)](https://www.facebook.com/qualitativecloud)[![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/637ccb246f45cd118765919f_Linkeding-Light-Grey-Icon.svg)](https://www.linkedin.com/company/relevanceai/)[![Twitter Icon](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/637ccb2423050360823d1f36_Twitter-Light-Grey-Icon.svg)](https://twitter.com/RelevanceAI_)[![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/637ccac02828ae6c28093827_Link-Image.svg)](https://site.relevanceai.com/blog/actionvfx-customer-story#)
+
+September 20, 2024
+
+Contents
+
+![](https://site.relevanceai.com/blog/actionvfx-customer-story)
+
+Tags:
+
+Insights

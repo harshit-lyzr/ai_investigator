@@ -1,52 +1,187 @@
-Title: ASAPP transforms customer service using Claude AI to match human agent capabilities \ Anthropic
-URL: https://www.anthropic.com/customers/asapp
+Title: SafetyCulture - Customer Story
+URL: https://site.relevanceai.com/customers/safetyculture
 
 Content:
-Case Study
+![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/6634d2b579362459817d438d_bosh.svg)
 
-# ASAPP brings human-level AI to customer service with Claude
+Recruit Bosh, the AI BDR Agent, and book meetings on autopilot.
 
-![ASAPP and Anthropic logo lockup](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F5c11233d6c62651129f69ac7fb20ded15f47b3f8-2880x1620.png&w=3840&q=75)
+Recruit Bosh, the AI BDR Agent, and book meetings on autopilot.
 
-ASAPP leverages Claude to power AI-driven customer service solutions—enabling businesses to deliver efficient, personalized help that enhances the customer support experience.
+[![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/6634d0eef31864407bf4d1bf_arrow-right.svg)\\
+Register](https://relevanceai.com/customers/safetyculture)
 
-With Claude, ASAPP:
+![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/6634d73485553301feec2709_dots.svg)![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/6634d5af29d8212842d3a937_cool-line.svg)
 
-- Saw a 25-40% improvement in core business metrics compared to other AI models
-- Eliminated the need for sensitive data redaction pipeline by using Claude in Amazon Bedrock
-- Enabled more natural interactions in automated customer service
-- Improved customer satisfaction through contextual conversations
+[![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/6634d0eef31864407bf4d1bf_arrow-right.svg)\\
+Learn more](https://relevanceai.com/customers/safetyculture) [![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/66348b2f9dba56c96b1ec681_cross.svg)](https://site.relevanceai.com/customers/safetyculture#)
 
-### Meeting growing customer service demands securely
+3 min read
 
-ASAPP has worked to transform contact centers using AI for over a decade. ASAPP's journey to Claude followed limitations with their initial foundational AI provider. Using this provider's models required implementing complex processes to identify and remove sensitive information before sending requests over the public internet—then reinserting that information into responses.
+July 22, 2024
 
-"This redaction process introduced errors that impacted the quality of our AI interactions," explained Michael Griffiths, Senior Director, Data Science at ASAPP. "The modified text made it harder for the AI to reason correctly and generate appropriate responses." This challenge was particularly acute in customer service, where accurate handling of personal information is crucial.
+# SafetyCulture recruited an AI Agent and 3x’d meetings
 
-### Choosing Claude for security and reliability
+![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/669dfbc59106d1699a54cdff_684799E3-E5FC-49F4-8605-60F175D13475.png)
 
-The search for a more secure solution led ASAPP to Claude in Amazon Bedrock. Nirmal Mukhi, VP of AI Engineering at ASAPP, said, "A key advantage of accessing Claude in Amazon Bedrock is the enhanced security. Our requests never traverse the public internet and are encrypted end-to-end. We can handle sensitive customer data without compromise, which is essential for our enterprise clients."
+### 3x increase
 
-Claude's alignment capabilities also emerged as a crucial differentiator. Gabe Maggiotti, Director of Machine Learning Engineering at ASAPP, said, "We have experienced that Anthropic has better alignment." Where other AI models might ignore instructions or make problematic assumptions, Claude adheres to defined parameters.
+in meetings booked
 
-Alignment matters because ASAPP allows companies to instruct GenerativeAgent on how to help solve customer problems. Claude makes that task easier by obediently following instructions from business users and engaging customers naturally with clarifying questions when GenerativeAgent needs more information.
+### 50% reduction
 
-### Delivering measurable business impact
+in cost per meeting
 
-The switch to Claude in Amazon Bedrock has significantly improved ASAPP's GenerativeAgent. Compared to other AI models, Claude delivers a 25-40% boost in key business outcomes in production, varying by use case.
+### 2x increase
 
-For businesses using ASAPP's platform, the impact extends beyond metrics. ASAPP can assure their enterprise customers that sensitive information remains protected by leveraging AWS PrivateLink for private API access and benefiting from Amazon Bedrock's no-data-retention policy. "We can pass these guarantees on to our customers, making them more comfortable with us as a provider," said Mukhi.
+in number of qualified opportunities
 
-### Transforming the customer experience
+[![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/667e95f5b0281c37a6dbd46b_safetyculture%20(1).svg)](https://safetyculture.com/)
 
-The experience represents a fundamental shift in automated service for end customers. Mukhi noted, "As humans, we're used to speaking with automated systems in certain ways. We expect a very rigid, menu-driven system." However, ASAPP's GenerativeAgent solution, powered by Claude, changes this paradigm entirely.
+#### Industry
 
-Customers quickly transition from terse, command-like interactions to full, natural conversations within just a few exchanges. The platform maintains context throughout conversations, meaning customers don't have to repeat information. The interaction quality is so convincing that customers often ask mid-conversation if they're speaking with a real person, and saying "thank you" to GenerativeAgent at the end.
+Software Development
 
-### The future of AI-powered customer service
+#### Involves
 
-While technology advances rapidly, ASAPP recognizes that organizational adoption takes time, creating a business process transformation involving millions of people requires careful, thoughtful implementation. "Claude fundamentally changes what's possible in automated customer care," explains Griffiths. "The ability to have nuanced, context-aware conversations through secure enterprise channels opens up entirely new possibilities for how companies and customers interact."
+Bosh, the AI BDR Agent
 
-Through their partnership with Anthropic, ASAPP isn't just automating interactions, but entirely reimagining them. Their vision is a future where customer service roles evolve to focus on higher-leverage, uniquely human skills while AI handles routine conversations with unprecedented efficiency and humanity. As each natural, trust-building interaction demonstrates, they're not just transforming technology—they're transforming how millions of people experience customer service.
+#### Tasks
 
-[Share on Twitter](https://twitter.com/intent/tweet?text=https://www.anthropic.com/customers/asapp)[Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://www.anthropic.com/customers/asapp)
+Researches prospects and generates value hypotheses
+
+Personalizes outreach and handles questions & objections
+
+Books meetings and updates CRM
+
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/667e9f210bcdbf6be54b68b2_cta.svg)
+
+##### Recruit Bosh the BDR Agent
+
+[Request demo](https://site.relevanceai.com/bosh-sales-agent)
+
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/668b753b19fb58090e5c286c_1712208607849.jpeg)
+
+Scott Henderson
+
+Head of Marketing at Relevance AI
+
+SafetyCulture, a workplace operations platform with over 75,000 customers in over 180 countries, is helping teams drive daily improvements across their organizations. Since January this year **,** SafetyCulture has been working with Relevance AI to onboard their first AI Agent: an AI teammate who can answer customer questions and book meetings on autopilot.
+
+‍
+
+SafetyCulture Recruits Bosh by Relevance AI
+
+![](https://site.relevanceai.com/customers/%3CBase64-Image-Removed%3E)
+
+Click for sound
+
+3:57
+
+‍
+
+**The Challenge: Capturing Demand**
+
+SafetyCulture had a problem that was hindering their growth; there was too much demand for their services, with a high variability of intent, and they didn’t have the capacity to meet it. Typically, booking meetings with prospects would require:
+
+- Sifting through the backlog of inbound enquiries.
+- Researching companies one by one to ensure they are a good fit.
+- Personalizing messaging.
+- Answering any questions.
+- Scheduling a meeting.
+
+As Mike Welch, Managing Director of SafetyCulture Training, says:
+
+> It’s just a volume problem. The way we’ve built our product-led growth engines at SafetyCulture means we are getting a lot of leads. Our team was sitting down and spending countless hours and days building personalized custom outreach to make sure that we hooked customers and that they understand the value that we can provide. That takes a lot of time, and it means we can’t reach out to everyone we’d like to.
+
+## ‍  The Solution: SafetyCulture recruits Bosh, the AI Agent, by Relevance AI
+
+With Relevance AI, companies can ‘employ’ AI teammates like they would hire an employee. AI Employees are onboarded like a new hire and trained to work in the way your company wants them to, akin to roles and responsibilities of a typical employment contract. These employees self-improve based on feedback over time.
+
+There is no ‘one-size fits all’ with Relevance AI agents. When an AI agent is recruited by a business it is completely customized to meet their unique requirements and processes.
+
+SafetyCultures AI Agent was trained on their:
+
+- Ideal customer profile
+- Use cases and value propositions
+- Messaging guidelines
+- Objection handling
+- Frequently asked questions
+- Tech stack, including their CRM
+- Handover process to (human) colleagues
+
+‍
+
+> The thing that differentiated Relevance AI was this felt like a person working in the business with us. It’s learning, it’s growing, it’s training itself. It’s almost like we have another person doing this sitting next to us.
+
+![mike welsh](https://site.relevanceai.com/customers/%3CBase64-Image-Removed%3E)
+Mike Welch
+
+Managing Director
+
+
+
+## The Results: Growing customers on autopilot
+
+The results speak for themselves:
+
+- 3x the number of meetings, at 50% of the cost per meeting. _‍_
+- 2x the number of qualified opportunities passed to Sales.
+- No leads allowed to go cold, since Bosh worked 24/7 to engage them.
+- A happier team that can focus on more high value tasks and are no longer bogged down with admin.
+
+‍
+
+> We had this account executive who went on holiday for a week when we were going live with Bosh. When they got back, they expected to have to do a bunch of admin work and calendar admin. Instead, they had more than 30 meetings booked. Their entire week was full of nothing but demos!
+
+![mike welsh](https://site.relevanceai.com/customers/%3CBase64-Image-Removed%3E)
+Mike Welch
+
+Managing Director
+
+
+## ‍  ‍What’s Next: Building their AI Workforce
+
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66a877fcaabd572bfb8eb329_667e984de5ffbb87e31f0ddd_safetyculture-hero%2520(1).png)
+
+‍
+
+**‍** SafetyCulture has empowered their inbound customer team to focus on delivering demos and building relationships, now that they no longer need to do the admin slog of book meetings.
+
+As Mike Welch says, "We’ve got our first agent up and running and the return on that has been so fast and so steep. So now we are literally looking at how do we pour gasoline on this thing? How can we enable our team to focus on what they do best, building relationships and being that trusted advisor."
+
+The reaction internally has been huge. SafetyCulture are now actively looking at many other tasks across their entire business that can be handed off to an AI teammate.
+
+‍
+
+> Yeah, so I mean, we’ve done this in a microcosm, but we can apply this to marketing, to support, to in house operations, and to finance. There are so many areas where we waste all this time and effort to do basic admin work, connecting dots, et cetera. So, we’re really rethinking the entire thing.
+
+![mike welsh](https://site.relevanceai.com/customers/%3CBase64-Image-Removed%3E)
+Mike Welch
+
+Managing Director
+
+
+### Recruit Bosh, the AI BDR
+
+Grow your business, not your headcount
+
+[Request demo](https://site.relevanceai.com/bosh-sales-agent)
+
+![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/65e657e1a2548c84515c8607_ideal-stars-bg.svg)
+
+![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/65dc1797ba41bda71533bd2f_prism-guy.svg)![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/65dc15f8fc23075e4991ae5c_world-guy.svg)
+
+## Build your AI workforce today!
+
+Recruit AI teammates and complete tasks on autopilot.
+
+Grow your business, not your headcount.
+
+[Try for free](https://auth.relevanceai.com/signup/) [Request demo](https://site.relevanceai.com/book-a-demo)
+
+Free plan
+
+![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/65dbf38bdf4c613e7628342e_star-icon.svg)
+
+No card required

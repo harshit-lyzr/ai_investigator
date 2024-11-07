@@ -1,14 +1,12 @@
 {
   "case_2": {
-    "company": "ASAPP",
-    "industry": "Customer Service Technology",
-    "confidence_score": 0.9,
-    "implementation_scale": "Enterprise-wide deployment across multiple customer service centers serving millions of interactions",
+    "company": "SafetyCulture",
+    "industry": "Software Development",
+    "confidence_score": 0.95,
+    "implementation_scale": "Enterprise scale with global deployment across 180 countries",
     "key_technologies": [
-      "Claude AI",
-      "Amazon Bedrock",
-      "AWS PrivateLink",
-      "GenerativeAgent"
+      "AI BDR Agent (Bosh)",
+      "CRM"
     ]
   },
   "case_6": {
@@ -33,29 +31,24 @@
     ]
   },
   "case_0": {
-    "company": "Healthify",
-    "industry": "Healthcare Technology",
-    "confidence_score": 0.9,
-    "implementation_scale": "40 million users globally with AI-powered features deployed across food tracking, coaching, and nutrition advice",
+    "company": "ActionVFX",
+    "industry": "Visual Effects",
+    "confidence_score": 0.85,
+    "implementation_scale": "Enterprise-level deployment with significant custom tool integration",
     "key_technologies": [
-      "GPT-4 Vision",
-      "GPT-3.5",
-      "GPT-4 Turbo",
-      "OpenAI Embeddings",
-      "LSTMs",
-      "CNNs",
-      "NLU Systems"
+      "Relevance AI",
+      "LLM",
+      "Claude 2.1"
     ]
   },
   "case_1": {
-    "company": "Armanino LLP",
-    "industry": "Accounting and Professional Services",
+    "company": "Armanino",
+    "industry": "Accounting",
     "confidence_score": 0.95,
-    "implementation_scale": "Firm-wide deployment across audit, tax, and consulting practices, impacting thousands of audits annually",
+    "implementation_scale": "Enterprise-scale deployment across multiple audit and consulting practices",
     "key_technologies": [
-      "Claude AI",
-      "Amazon Bedrock",
-      "AWS"
+      "Claude",
+      "Amazon Bedrock"
     ]
   },
   "case_10": {

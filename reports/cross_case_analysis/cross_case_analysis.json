@@ -1,15 +1,13 @@
 {
   "case_2": {
     "company": {
-      "name": "ASAPP",
-      "industry": "Customer Service Technology",
+      "name": "SafetyCulture",
+      "industry": "Software Development",
       "size_category": "Large Enterprise"
     },
     "technologies": [
-      "Claude AI",
-      "Amazon Bedrock",
-      "AWS PrivateLink",
-      "GenerativeAgent"
+      "AI BDR Agent (Bosh)",
+      "CRM"
     ],
     "success_factors": {
       "established_company": true,
@@ -58,18 +56,14 @@
   },
   "case_0": {
     "company": {
-      "name": "Healthify",
-      "industry": "Healthcare Technology",
+      "name": "ActionVFX",
+      "industry": "Visual Effects",
       "size_category": "Large Enterprise"
     },
     "technologies": [
-      "GPT-4 Vision",
-      "GPT-3.5",
-      "GPT-4 Turbo",
-      "OpenAI Embeddings",
-      "LSTMs",
-      "CNNs",
-      "NLU Systems"
+      "Relevance AI",
+      "LLM",
+      "Claude 2.1"
     ],
     "success_factors": {
       "established_company": true,
@@ -81,14 +75,13 @@
   },
   "case_1": {
     "company": {
-      "name": "Armanino LLP",
-      "industry": "Accounting and Professional Services",
+      "name": "Armanino",
+      "industry": "Accounting",
       "size_category": "Large Enterprise"
     },
     "technologies": [
-      "Claude AI",
-      "Amazon Bedrock",
-      "AWS"
+      "Claude",
+      "Amazon Bedrock"
     ],
     "success_factors": {
       "established_company": true,

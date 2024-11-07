@@ -23,12 +23,15 @@ for directory in [INPUT_DIR, RAW_DIR, LOGS_DIR, SECTIONS_DIR, REPORTS_DIR,
 
 # Claude settings
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
-if not ANTHROPIC_API_KEY:
-    raise ValueError("ANTHROPIC_API_KEY environment variable is not set")
+# if not ANTHROPIC_API_KEY:
+#     raise ValueError("ANTHROPIC_API_KEY environment variable is not set")
 
 CLAUDE_MODEL = "claude-3-5-sonnet-20241022"
 CLAUDE_TEMPERATURE = 0.2
 CLAUDE_MAX_TOKENS = 4096
+
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_MODEL = "gpt-4o"
 
 # Web scraping settings
 MAX_RETRIES = 3

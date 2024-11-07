@@ -1,6 +1,9 @@
 import logging
 from typing import List, Dict, Optional
-from src.processors.claude_processor import ClaudeProcessor
+from ..processors.claude_processor import ClaudeProcessor
+from ..processors.openai_processor import OpenaiProcessor
+from ..processors.litellm_processor import LitellmProcessor
+from ..processors.agentapi_processor import AgentAPIProcessor
 from src.config import FIRECRAWL_API_KEY
 from firecrawl import FirecrawlApp
 
@@ -11,7 +14,7 @@ class WebsiteCrawler:
         self.app = FirecrawlApp(api_key=FIRECRAWL_API_KEY)
         self.claude_processor = None
 
-    async def find_case_study_links(self, website_url: str, claude_processor: ClaudeProcessor) -> List[Dict[str, str]]:
+    async def find_case_study_links(self, website_url: str, claude_processor: AgentAPIProcessor) -> List[Dict[str, str]]:
         """Find case study links using Firecrawl's map endpoint and Claude's analysis"""
         self.claude_processor = claude_processor
         
@@ -48,49 +51,49 @@ class WebsiteCrawler:
 
     async def _identify_case_studies(self, links: List[str]) -> List[Dict[str, str]]:
         """Use Claude to identify which links are likely case studies"""
-        prompt = """You are an expert at identifying case study, customer story, and success story content on company websites.
-
-Carefully analyze the provided URLs and determine which ones are likely to lead to case studies, customer stories, success stories, or similar content.
-
-Look for the following key patterns in the URLs:
-
-1. Direct case study URLs:
-   - /case-studies/
-   - /case-studies/[specific-company-name]
-   - /case-studies/how-[company-name]-used-[product]
-
-2. Customer story URLs:
-   - /customer-stories/
-   - /customer-stories/[company-name]
-   - /customers/[company-name]
-
-3. Success story URLs:
-   - /success-stories/
-   - /success/[company-name]
-
-4. Implementation/use case URLs:
-   - URLs containing "how-[company-name]-used" or "how-to-use"
-   - URLs describing specific product implementations or use cases
-
-5. Customer example URLs:
-   - URLs with [company-name] followed by implementation details
-   - URLs describing specific customer use cases
-
-Additionally, be aware of blog or news-related URLs that may contain case study content:
-
-6. Blog/news URLs:
-   - URLs containing "blog", "blogs", "news", or "newsroom"
-   - URLs with brand names in the path
-
-Analyze the provided list of URLs carefully and thoroughly. Identify ALL URLs that match the patterns above or appear to be case studies, customer stories, or similar content.
-
-Return a JSON list of the indices of all URLs that you believe will lead to case study-related content. Do not include any other text.
-
-Example: [0, 2, 5]
-
-URLs to analyze:
-{urls}
-        """
+#         prompt = """You are an expert at identifying case study, customer story, and success story content on company websites.
+#
+# Carefully analyze the provided URLs and determine which ones are likely to lead to case studies, customer stories, success stories, or similar content.
+#
+# Look for the following key patterns in the URLs:
+#
+# 1. Direct case study URLs:
+#    - /case-studies/
+#    - /case-studies/[specific-company-name]
+#    - /case-studies/how-[company-name]-used-[product]
+#
+# 2. Customer story URLs:
+#    - /customer-stories/
+#    - /customer-stories/[company-name]
+#    - /customers/[company-name]
+#
+# 3. Success story URLs:
+#    - /success-stories/
+#    - /success/[company-name]
+#
+# 4. Implementation/use case URLs:
+#    - URLs containing "how-[company-name]-used" or "how-to-use"
+#    - URLs describing specific product implementations or use cases
+#
+# 5. Customer example URLs:
+#    - URLs with [company-name] followed by implementation details
+#    - URLs describing specific customer use cases
+#
+# Additionally, be aware of blog or news-related URLs that may contain case study content:
+#
+# 6. Blog/news URLs:
+#    - URLs containing "blog", "blogs", "news", or "newsroom"
+#    - URLs with brand names in the path
+#
+# Analyze the provided list of URLs carefully and thoroughly. Identify ALL URLs that match the patterns above or appear to be case studies, customer stories, or similar content.
+#
+# Return a list of the indices of all URLs that you believe will lead to case study-related content. Do not include any other text.
+#
+# Example: [0, 2, 5]
+#
+# URLs to analyze:
+# {urls}
+#         """
 
         # Prepare URLs for Claude
         urls_data = []
@@ -99,19 +102,18 @@ URLs to analyze:
 
         print("\nClaude API Request:")
         print("Prompt:")
-        print(prompt.format(urls='\n'.join(urls_data)))
+        # print(prompt.format(urls='\n'.join(urls_data)))
 
         # Get Claude's analysis
-        response = await self.claude_processor.analyze_links(
-            prompt.format(urls='\n'.join(urls_data))
-        )
+        response = await self.claude_processor.analyze_links(urls_data)
 
         print("\nClaude API Response:")
         print(response)
 
         try:
             case_study_indices = eval(response)  # Safely evaluate the list
-            
+
+            print(case_study_indices)
             # Get the identified case study URLs
             case_studies = []
             for i in case_study_indices:

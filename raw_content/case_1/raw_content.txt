@@ -1,72 +1,373 @@
-Title: Magic Patterns: AI Design Tool
-URL: https://www.magicpatterns.com/customers/roster
+Title: From Tools to Teams: Unlocking Relevance AI’s Full Potential | Relevance AI
+URL: https://site.relevanceai.com/blog/verisoul-case-study
 
 Content:
-[![Magic Patterns Logo](https://www.magicpatterns.com/magicpatterns_logo_light.svg)](/ai)
+6 min read
 
-Go back
+September 20, 2024
 
-# Faster UX pattern discovery & interaction design prototyping
+# Verisoul Case Study
 
-> "Magic Patterns is my brainstorming partner for new concepts, component ideation — it solves that blank page problem."
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66f3b71277364441c5a93bed_65f90ee752e70cd06e34e156_V%2520Thumbnail.png)
 
-![Roster](https://www.magicpatterns.com/case-studies/roster/roster-screenshot.png)
+### Summary
 
-I have been having **so much fun using Magic Patterns** for rapid UX and interaction brainstorming/prototyping.
+[h2\\
+\\
+Verisoul’s early Relevance AI use cases](https://site.relevanceai.com/blog/verisoul-case-study#verisouls-early-relevance-ai-use-cases)
 
-Before I built up experience and mental models around when, why, and how to deploy certain patterns, I would have to Google search — often without knowing the right terms to describe the problem. OrI'd have to search sites like Dribbble, Mobbin, or one of the many UX pattern repositories out there — trying to visually parse if something was solving a similar problem to the one I was designing for.
+[h3\\
+\\
+Side note: Relevance AI vs. Copy AI](https://site.relevanceai.com/blog/verisoul-case-study#side-note-relevance-ai-vs-copy-ai)
 
-**Magic Patterns bridges knowledge gaps**, accelerating the learning process and enabling designers of all experience levels to reach better solutions more quickly.
+[h2\\
+\\
+From Tools, to Agents, to Teams](https://site.relevanceai.com/blog/verisoul-case-study#from-tools-to-agents-to-teams)
 
-Innovations such as Magic Patterns and its screenshot-to-code feature is helping us get past the blank page problem. Tools like this are moving designers into the role of curator and design instructor, rather than simply production designer. Sometimes I feel like Magic Patterns is my intern. Definitely helping me move faster in more directions in parallel.
+[h2\\
+\\
+Verisoul’s Presidential Briefing](https://site.relevanceai.com/blog/verisoul-case-study#verisouls-presidential-briefing)
 
-It's made my current workflow even faster.Existing tools are
-great for visual design, but when it comes to pattern ideation
-that's specific to your use case - that's so much harder to find
-and **Magic Patterns gets the job done**.
+[h2\\
+\\
+Results and takeaways](https://site.relevanceai.com/blog/verisoul-case-study#results-and-takeaways)
 
-Steve WitmerDesign Co-Founder
+#### Tags
 
-[![Roster](https://www.magicpatterns.com/case-studies/roster/roster-landing-page.png)](https://onroster.io/)
+Learn
 
-Roster
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/667e9f210bcdbf6be54b68b2_cta.svg)
 
-The future of work for entertainment production and crew
+##### Recruit Bosh the BDR Agent
 
-[onroster.io](https://onroster.io/)
+[Request demo](https://relevanceai.com/bosh-sales-agent)
 
-FoundedSan Diego, 2023
+### Share this post
 
-Using Magic Patterns sinceMay 2024
+https://relevanceai.com/blog/verisoul-case-study
 
-Favorite featureDesign inspiration
+![](https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg)
 
-![Magic Patterns Logo](https://www.magicpatterns.com/patterns_logo_gs.svg)Magic Patterns
+# From Tools to Teams: Unlocking Relevance AI’s Full Potential
 
-[All Systems Operational](https://magicpatterns.statuspage.io/)
+‍
 
-[Visit Magic Patterns' Twitter](https://twitter.com/magicpatterns)[Visit Magic Patterns' Github](https://github.com/magicpatterns)[Visit Magic Patterns' LinkedIn](https://www.linkedin.com/company/magicpatterns)[Join Magic Patterns' Slack community](https://join.slack.com/t/magic-patterns/shared_invite/zt-1ps2xtxh0-2NaixFfFzSKZbr5gw_AHfA)
+_This is a guest post from_ [_Henry LeGuard_](https://www.linkedin.com/in/henrylegard/) _, CEO of_ [_Verisoul_](https://www.verisoul.ai/) _. Verisoul is an AI platform that helps businesses automate prevention of fake accounts like duplicates, bots, spammers, and fraudsters._
 
-Overview
+‍
 
-Get Started
+At Verisoul, we prioritize “return on time” when evaluating any new GTM initiative. We’re a 2-person growth team, primarily constrained by the # of hours in a day. The seemingly boundless number of GTM opportunities leads to trade-offs: should we customize every email, or focus on quantity over quality? Should we post relevant content on LinkedIn weekly, or draft thought pieces for newsletters monthly? As a team itching to show off our product to the world, we were ecstatic to add a new productivity hack to the team: Relevance AI. In a matter of weeks, our team of 2 started operating like a team of 20.
 
-[Documentation](https://www.magicpatterns.com/docs/documentation/get-started/introduction) [Prompting Guide](https://www.magicpatterns.com/docs/documentation/get-started/prompting)
+Today, we’ll discuss how our growth team quickly evolved from the most basic building blocks of Relevance AI - the tools - to building teams of agents triggered by [automated workflows](https://site.relevanceai.com/blog/what-are-ai-agent-examples-in-customer-support-automation).
 
-Product
+‍
 
-Pricing
+From Tools to Teams: Unlocking Relevance AI’s Full Potential with Verisoul - YouTube
 
-[Security](https://www.magicpatterns.com/docs/documentation/enterprise/security) [Contact Sales](https://cal.com/adanilowicz/generating-custom-ui-with-patterns)
+Relevance AI
 
-Use Cases [Product](/teams/product) [Designers](/teams/designers) [Founders](/teams/startups) [Sales](/teams/sales)
+3.71K subscribers
 
-Company [Blog](/blog) [Customers](/customers) [Careers](https://magicpatterns.notion.site/magicpatterns/Jobs-at-Magic-Patterns-56c741e19619434daaf2968f443ee992) [Social Media](https://twitter.com/magicpatterns)
+[From Tools to Teams: Unlocking Relevance AI’s Full Potential with Verisoul](https://www.youtube.com/watch?v=niw7qRaY318)
 
-Legal
+Relevance AI
 
-Contact
+Search
 
-[Acceptable Use](https://www.magicpatterns.com/docs/documentation/legal/acceptable-use) [Terms](https://www.magicpatterns.com/docs/documentation/legal/terms) [Privacy Policy](https://www.magicpatterns.com/docs/documentation/legal/privacy)
+Info
 
-© North Park Labs 2024
+Shopping
+
+Tap to unmute
+
+If playback doesn't begin shortly, try restarting your device.
+
+Share
+
+Include playlist
+
+An error occurred while retrieving sharing information. Please try again later.
+
+Watch later
+
+Share
+
+Copy link
+
+0:00
+
+/ •Live
+
+•
+
+[Watch on YouTube](https://www.youtube.com/watch?v=niw7qRaY318 "Watch on YouTube")
+
+‍
+
+## Verisoul’s early Relevance AI use cases
+
+Within days of setting up Relevance AI, the power of the workflows was apparent. With just three tool steps - google search, website scrape, and ChatGPT - we were able to create a variety of tools that enabled our daily outreach campaigns:
+
+- List scraping tools to identify sets of companies
+- LinkedIn URL finders, allowing us to drop in the above set of companies and identify the right person to reach out to at each company
+- Personalized messages to prospects via LinkedIn scraping, company website scraping, and Relevance AI’s knowledge-base of Verisoul’s offering
+
+Among many others. While we eventually augmented our product with some of the other 100-odd tool steps, these three allowed us to hit the ground sprinting. The outcome when combined with 6Sense and Amplemarket? Hundreds of [custom emails](https://site.relevanceai.com/blog/what-are-ai-agent-use-cases-in-sales-forecasting-and-performance-improvement) sent to individuals interested in purchasing fake account prevention software weekly.
+
+‍
+
+### Side note: Relevance AI vs. Copy AI
+
+We tried using competitors like Copy AI, but struggled with the user interface and the overall guardrails and _training wheels_ on the platform. Even creating a single tool meant relying on an LLM to appropriately interpret our commands and produce the proper workflow prompts. Relevance AI, on the other hand, had intuitive piping structures, far more capabilities, and a more _open_ framework, which allowed us to directly make the updates ourselves. Copy AI’s inability to search Google might’ve been the largest limitation, a feature used in >50% of our Relevance AI tools.
+
+‍
+
+## From Tools, to Agents, to Teams
+
+‍
+
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66e9159e91596dd734a07ddb_65f91135e765f95d83b68818_Using%2520relevance.png)
+
+When to use each level of Relevance AI
+
+‍
+
+The key to maximizing accuracy when using LLMs comes from splitting large workflows / calculations into smaller stepping stones. For example, rather than ask a single tool to identify a pain point for a company based on its industry, we use two tools to identify the company’s industry and then select the matching pain point. Enabling an [intelligent agent](https://site.relevanceai.com/blog/what-are-ai-agent-examples-in-hr-recruitment-and-operations) with [multiple tools](https://site.relevanceai.com/blog/what-is-a-multi-agent-system-in-operations-a-game-changer-in-supply-chain-management) is more efficient and accurate than using one tool to accomplish multiple outcomes. As complexity rises, however, a single agent is no longer sufficient. Asking an agent to pick from 10+ tools makes the LLM hallucinate worse than having 9 cups of green tea.
+
+Enter [Relevance AI teams](https://site.relevanceai.com/blog/what-are-ai-teams-in-hr-management-and-talent-acquisition). With Relevance AI’s team structure, we create specialized bots with singular focus areas, managed by other AI-enabled agents. Furthermore, this type of hierarchy is scalable → you can have [multiple managers](https://site.relevanceai.com/blog/what-is-multi-agent-system-software-in-hr-a-comprehensive-guide) reporting to another manager! Having left the corporate world years ago, we felt some nostalgia adding middle managers with simple functions into our workflow…
+
+So how did we think of tasks to automate with the new teams function? Joey (our Head of Growth) and I started by asking ourselves two questions: what would we do if we had more hours in the day, and what would we want a theoretical contractor to work on that requires minimal oversight? We looked to the world’s best delegator for inspiration (the United States President), and stumbled upon a workflow titled “The Presidential Briefing.”
+
+‍
+
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66e9159e91596dd734a07dde_65f911759102da8859d5af81_briefing.png)
+
+Presidential Briefing workflow
+
+‍
+
+## Verisoul’s Presidential Briefing
+
+The Presidential Briefing is triggered automatically by our local Austin tech newsletter, the Austin Inno (s/o [Brent](https://www.linkedin.com/in/brentwistrom/) for great daily content), through Zapier. From there, the [team manager](https://site.relevanceai.com/blog/what-is-an-ai-agent-builder-for-customer-support-enhancing-customer-experience-explained) \- **_Sequence Kick-off SK_** _-_ parses the newsletter and engages the two agents that report to her team: **_Austin Inno Ivan_** and **_Morning News Mo_**. **_Austin Inno Ivan_** has a couple tools at his disposal, and he creates a table with all the companies listed in the newsletter, relevant blurbs about each company, and the CEO LinkedIns for each company. Joey and I can then shoot quick LinkedIn messages or run automated campaigns to these CEOs with [hyper personalized messages](https://site.relevanceai.com/blog/what-is-an-ai-agent-builder-in-marketing-and-how-it-improves-customer-engagement) tied to recent events (e.g., “Saw you just won the SXSW ‘Top EDU Start-up’ award!”).
+
+**_Morning News Mo_** takes the date from **_Sequence Kick-off SK_** and searches Google for all relevant news articles from today by using filtered searching on relevant keywords (e.g., Fake Accounts) in Google. After scraping 30 articles, **_Mo_** uses the Verisoul knowledge base to identify the 5 most relevant articles for our team, and shoots us a slack message beginning with “Mr. President.” In addition to the incredible dopamine hit from being called “Mr. President,” we now have the most relevant news to start our day.
+
+‍
+
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66e9159e91596dd734a07e09_65f911da174624ddfe51a3d2_output.png)
+
+Morning News Mo’s output
+
+‍
+
+But the power of Relevance AI doesn’t stop there. If we like an article and want to leave a comment on it (without spending too much time of course), we’ll shoot a slack message to **_News Commander Ned_**, who passes the article onto his team: **_LinkedIn Lyndsey_** and **_Commenter Karen_**. **_Karen_** gives us a comment to post to the article and **_Lyndsey_** gives us the LinkedIns of our ICPs for any relevant companies referenced in the article. This entire exchange occurs in Slack.
+
+‍
+
+## Results and takeaways
+
+In <5 minutes of review, we’re informed on the day’s most relevant news, have 5-10 new leads with [custom outreach messages](https://site.relevanceai.com/blog/what-are-ai-agent-examples-in-sales-automation-and-forecasting), and have a number of comments we can post to relevant articles. We’re better prepared for meetings, have a better sense of our solution’s PMF, and can run yet another automated campaign via contractors.
+
+And we don’t have to worry about our “team” of AI Agents job hopping or applying for MBA programs (though I’d of course write a positive recommendation if **_Mo_** thought it was a good fit for his career).
+
+Reflecting back on our first foray into using teams, we’ve got a number of tips:
+
+- Break every task down to its simplest function. Maybe it’s splitting one agent into a team of two, or one tool into a chain of tools. This will make your life easier when your model starts to hallucinate
+- The best use cases typically involve some sort of [segmentation](https://site.relevanceai.com/blog/what-is-multi-agent-system-software-in-sales-strategy-a-comprehensive-guide), e.g., parsing an initial input and running separate agents with different focus areas
+- The more automated the workflow, the higher leverage the solution; to ensure automation, Relevance has a number of pre-built integrations, and we also set-up Zapier workflows in minutes
+- When using teams, opt for the workflow functionality + variable passing as much as possible; the less specific you are, the more likely you are to get unintended results
+- Have fun with the naming conventions… it’s hard to get mad at a bot named **_Morning News Mo_**, even when he’s sending you irrelevant news articles about Baby Bottle Pops
+
+Given the perpetual, autonomous functionality, there’s not a tool we’d recommend more for high-leverage return on time than Relevance AI teams. Don’t hesitate to shoot us a note if you have questions on our Relevance AI workflow or want to see it in more detail!
+
+You might also like
+
+[![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66f3b70cc6d0db75fabbf402_669da1a4fa335ea9c915b29e_hackathon-showcase.png)\\
+\\
+**Relevance AI <> Build Club Global Hackathon Showcase**](https://site.relevanceai.com/blog/relevance-ai-build-club-global-hackathon-showcase)
+
+[![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66f3b6f296d6d61b4227b262_6662ce4e99a0e737a466aa30_webpage.png)\\
+\\
+**Agent: Teddy the Tool Webpage Writer**](https://site.relevanceai.com/blog/agent-teddy-the-tool-webpage-writer)
+
+[![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66f3b716f5b72adfc07222b3_665fb9c14da60ce52fc1998e_FAQ.png)\\
+\\
+**Agent: SEO-Optimised FAQ Writer**](https://site.relevanceai.com/blog/seo-optimised-faq-writer-agent)
+
+![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/65e657e1a2548c84515c8607_ideal-stars-bg.svg)
+
+![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/65dc1797ba41bda71533bd2f_prism-guy.svg)![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/65dc15f8fc23075e4991ae5c_world-guy.svg)
+
+## Build your AI workforce today!
+
+Recruit AI teammates and complete tasks on autopilot.
+
+Grow your business, not your headcount.
+
+[Try for free](https://auth.relevanceai.com/signup/) [Request demo](https://site.relevanceai.com/book-a-demo)
+
+Free plan
+
+![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/65dbf38bdf4c613e7628342e_star-icon.svg)
+
+No card required
+
+## Verisoul Case Study
+
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66f3b71277364441c5a93bed_65f90ee752e70cd06e34e156_V%2520Thumbnail.png)
+
+![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/637cc8e66de42274becc9aab_Down-Arrow.svg)
+
+6 min read
+
+# From Tools to Teams: Unlocking Relevance AI’s Full Potential
+
+‍
+
+_This is a guest post from_ [_Henry LeGuard_](https://www.linkedin.com/in/henrylegard/) _, CEO of_ [_Verisoul_](https://www.verisoul.ai/) _. Verisoul is an AI platform that helps businesses automate prevention of fake accounts like duplicates, bots, spammers, and fraudsters._
+
+‍
+
+At Verisoul, we prioritize “return on time” when evaluating any new GTM initiative. We’re a 2-person growth team, primarily constrained by the # of hours in a day. The seemingly boundless number of GTM opportunities leads to trade-offs: should we customize every email, or focus on quantity over quality? Should we post relevant content on LinkedIn weekly, or draft thought pieces for newsletters monthly? As a team itching to show off our product to the world, we were ecstatic to add a new productivity hack to the team: Relevance AI. In a matter of weeks, our team of 2 started operating like a team of 20.
+
+Today, we’ll discuss how our growth team quickly evolved from the most basic building blocks of Relevance AI - the tools - to building teams of agents triggered by [automated workflows](https://site.relevanceai.com/blog/what-are-ai-agent-examples-in-customer-support-automation).
+
+‍
+
+From Tools to Teams: Unlocking Relevance AI’s Full Potential with Verisoul - YouTube
+
+Relevance AI
+
+3.71K subscribers
+
+[From Tools to Teams: Unlocking Relevance AI’s Full Potential with Verisoul](https://www.youtube.com/watch?v=niw7qRaY318)
+
+Relevance AI
+
+Search
+
+Info
+
+Shopping
+
+Tap to unmute
+
+If playback doesn't begin shortly, try restarting your device.
+
+You're signed out
+
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+
+CancelConfirm
+
+Share
+
+Include playlist
+
+An error occurred while retrieving sharing information. Please try again later.
+
+Watch later
+
+Share
+
+Copy link
+
+Watch on
+
+0:00
+
+/ •Live
+
+•
+
+[Watch on YouTube](https://www.youtube.com/watch?v=niw7qRaY318 "Watch on YouTube")
+
+‍
+
+## Verisoul’s early Relevance AI use cases
+
+Within days of setting up Relevance AI, the power of the workflows was apparent. With just three tool steps - google search, website scrape, and ChatGPT - we were able to create a variety of tools that enabled our daily outreach campaigns:
+
+- List scraping tools to identify sets of companies
+- LinkedIn URL finders, allowing us to drop in the above set of companies and identify the right person to reach out to at each company
+- Personalized messages to prospects via LinkedIn scraping, company website scraping, and Relevance AI’s knowledge-base of Verisoul’s offering
+
+Among many others. While we eventually augmented our product with some of the other 100-odd tool steps, these three allowed us to hit the ground sprinting. The outcome when combined with 6Sense and Amplemarket? Hundreds of [custom emails](https://site.relevanceai.com/blog/what-are-ai-agent-use-cases-in-sales-forecasting-and-performance-improvement) sent to individuals interested in purchasing fake account prevention software weekly.
+
+‍
+
+### Side note: Relevance AI vs. Copy AI
+
+We tried using competitors like Copy AI, but struggled with the user interface and the overall guardrails and _training wheels_ on the platform. Even creating a single tool meant relying on an LLM to appropriately interpret our commands and produce the proper workflow prompts. Relevance AI, on the other hand, had intuitive piping structures, far more capabilities, and a more _open_ framework, which allowed us to directly make the updates ourselves. Copy AI’s inability to search Google might’ve been the largest limitation, a feature used in >50% of our Relevance AI tools.
+
+‍
+
+## From Tools, to Agents, to Teams
+
+‍
+
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66e9159e91596dd734a07ddb_65f91135e765f95d83b68818_Using%2520relevance.png)
+
+When to use each level of Relevance AI
+
+‍
+
+The key to maximizing accuracy when using LLMs comes from splitting large workflows / calculations into smaller stepping stones. For example, rather than ask a single tool to identify a pain point for a company based on its industry, we use two tools to identify the company’s industry and then select the matching pain point. Enabling an [intelligent agent](https://site.relevanceai.com/blog/what-are-ai-agent-examples-in-hr-recruitment-and-operations) with [multiple tools](https://site.relevanceai.com/blog/what-is-a-multi-agent-system-in-operations-a-game-changer-in-supply-chain-management) is more efficient and accurate than using one tool to accomplish multiple outcomes. As complexity rises, however, a single agent is no longer sufficient. Asking an agent to pick from 10+ tools makes the LLM hallucinate worse than having 9 cups of green tea.
+
+Enter [Relevance AI teams](https://site.relevanceai.com/blog/what-are-ai-teams-in-hr-management-and-talent-acquisition). With Relevance AI’s team structure, we create specialized bots with singular focus areas, managed by other AI-enabled agents. Furthermore, this type of hierarchy is scalable → you can have [multiple managers](https://site.relevanceai.com/blog/what-is-multi-agent-system-software-in-hr-a-comprehensive-guide) reporting to another manager! Having left the corporate world years ago, we felt some nostalgia adding middle managers with simple functions into our workflow…
+
+So how did we think of tasks to automate with the new teams function? Joey (our Head of Growth) and I started by asking ourselves two questions: what would we do if we had more hours in the day, and what would we want a theoretical contractor to work on that requires minimal oversight? We looked to the world’s best delegator for inspiration (the United States President), and stumbled upon a workflow titled “The Presidential Briefing.”
+
+‍
+
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66e9159e91596dd734a07dde_65f911759102da8859d5af81_briefing.png)
+
+Presidential Briefing workflow
+
+‍
+
+## Verisoul’s Presidential Briefing
+
+The Presidential Briefing is triggered automatically by our local Austin tech newsletter, the Austin Inno (s/o [Brent](https://www.linkedin.com/in/brentwistrom/) for great daily content), through Zapier. From there, the [team manager](https://site.relevanceai.com/blog/what-is-an-ai-agent-builder-for-customer-support-enhancing-customer-experience-explained) \- **_Sequence Kick-off SK_** _-_ parses the newsletter and engages the two agents that report to her team: **_Austin Inno Ivan_** and **_Morning News Mo_**. **_Austin Inno Ivan_** has a couple tools at his disposal, and he creates a table with all the companies listed in the newsletter, relevant blurbs about each company, and the CEO LinkedIns for each company. Joey and I can then shoot quick LinkedIn messages or run automated campaigns to these CEOs with [hyper personalized messages](https://site.relevanceai.com/blog/what-is-an-ai-agent-builder-in-marketing-and-how-it-improves-customer-engagement) tied to recent events (e.g., “Saw you just won the SXSW ‘Top EDU Start-up’ award!”).
+
+**_Morning News Mo_** takes the date from **_Sequence Kick-off SK_** and searches Google for all relevant news articles from today by using filtered searching on relevant keywords (e.g., Fake Accounts) in Google. After scraping 30 articles, **_Mo_** uses the Verisoul knowledge base to identify the 5 most relevant articles for our team, and shoots us a slack message beginning with “Mr. President.” In addition to the incredible dopamine hit from being called “Mr. President,” we now have the most relevant news to start our day.
+
+‍
+
+![](https://cdn.prod.website-files.com/637e7afd450ee24fb878e5b0/66e9159e91596dd734a07e09_65f911da174624ddfe51a3d2_output.png)
+
+Morning News Mo’s output
+
+‍
+
+But the power of Relevance AI doesn’t stop there. If we like an article and want to leave a comment on it (without spending too much time of course), we’ll shoot a slack message to **_News Commander Ned_**, who passes the article onto his team: **_LinkedIn Lyndsey_** and **_Commenter Karen_**. **_Karen_** gives us a comment to post to the article and **_Lyndsey_** gives us the LinkedIns of our ICPs for any relevant companies referenced in the article. This entire exchange occurs in Slack.
+
+‍
+
+## Results and takeaways
+
+In <5 minutes of review, we’re informed on the day’s most relevant news, have 5-10 new leads with [custom outreach messages](https://site.relevanceai.com/blog/what-are-ai-agent-examples-in-sales-automation-and-forecasting), and have a number of comments we can post to relevant articles. We’re better prepared for meetings, have a better sense of our solution’s PMF, and can run yet another automated campaign via contractors.
+
+And we don’t have to worry about our “team” of AI Agents job hopping or applying for MBA programs (though I’d of course write a positive recommendation if **_Mo_** thought it was a good fit for his career).
+
+Reflecting back on our first foray into using teams, we’ve got a number of tips:
+
+- Break every task down to its simplest function. Maybe it’s splitting one agent into a team of two, or one tool into a chain of tools. This will make your life easier when your model starts to hallucinate
+- The best use cases typically involve some sort of [segmentation](https://site.relevanceai.com/blog/what-is-multi-agent-system-software-in-sales-strategy-a-comprehensive-guide), e.g., parsing an initial input and running separate agents with different focus areas
+- The more automated the workflow, the higher leverage the solution; to ensure automation, Relevance has a number of pre-built integrations, and we also set-up Zapier workflows in minutes
+- When using teams, opt for the workflow functionality + variable passing as much as possible; the less specific you are, the more likely you are to get unintended results
+- Have fun with the naming conventions… it’s hard to get mad at a bot named **_Morning News Mo_**, even when he’s sending you irrelevant news articles about Baby Bottle Pops
+
+Given the perpetual, autonomous functionality, there’s not a tool we’d recommend more for high-leverage return on time than Relevance AI teams. Don’t hesitate to shoot us a note if you have questions on our Relevance AI workflow or want to see it in more detail!
+
+[![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/637ccb246f45cda06f65919e_Facebook-Light-Grey-Icon.svg)](https://www.facebook.com/qualitativecloud)[![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/637ccb246f45cd118765919f_Linkeding-Light-Grey-Icon.svg)](https://www.linkedin.com/company/relevanceai/)[![Twitter Icon](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/637ccb2423050360823d1f36_Twitter-Light-Grey-Icon.svg)](https://twitter.com/RelevanceAI_)[![](https://cdn.prod.website-files.com/636cad09a1159553a45e8ba1/637ccac02828ae6c28093827_Link-Image.svg)](https://site.relevanceai.com/blog/verisoul-case-study#)
+
+September 20, 2024
+
+Contents
+
+![](https://site.relevanceai.com/blog/verisoul-case-study)
+
+Tags:
+
+Learn

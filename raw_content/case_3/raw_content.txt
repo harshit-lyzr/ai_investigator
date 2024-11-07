@@ -1,58 +1,190 @@
-Title: BlueFlame AI empowers lean investment teams to achieve institutional-scale analysis with Claude \ Anthropic
-URL: https://www.anthropic.com/customers/blueflame
+Title: Case Studies | Leap AI
+URL: https://www.tryleap.ai/case-studies/thirdweb
 
 Content:
-Case Study
+# How B2B Startup Thirdweb uses AI to 10x Content Workflows
 
-# BlueFlame AI empowers lean investment teams to achieve institutional-scale analysis with Claude
+# 30+
 
-![BlueFlame and Anthropic logo lockups](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F9140e8888ad3b65aaa2c1c2209d323f6b6ffaa7f-2880x1620.png&w=3840&q=75)
+Hours per week saved on manual content tasks
 
-BlueFlame uses Claude to give small investment teams enterprise-grade analytical capabilities, enabling lean teams to analyze vast document sets and uncover insights at institutional scale—without needing in-house technical expertise.
+# 10X
 
-With Claude, BlueFlame:
+Increase in content production and SEO performance
 
-- Enabled small teams to perform institutional-scale analysis previously requiring large technical departments
-- Reduced document analysis time from 4+ hours to minutes
-- Supports and average of 30 client queries per day
-- Automated comparison of hundreds of companies simultaneously
+# 50+
 
-### Bridging the resource gap for sophisticated investors
+Youtube videos converted into SEO-optimized guides
 
-Alternative investment managers face a critical challenge: they need to perform sophisticated financial analysis at institutional scale, but operate with lean teams. "We serve lean organizations— businesses with institutional expectations. Some may have 50 people managing a very significant pool of capital," said Henry Lindemann, COO and Co-founder of BlueFlame.
+How B2B Startup Thirdweb uses AI to 10x SEO Content Workflows - YouTube
 
-"Our clients are very sophisticated in terms of finance and analytics, but they often don't have in-house development teams," said Ed Chu, CTO at BlueFlame. When analyzing vast amounts of unstructured data—like private equity deal rooms full of documents—these lean teams need enterprise-grade tools that don't require technical expertise.
+Leap
 
-### Choosing Claude for enterprise reliability and accuracy
+333 subscribers
 
-BlueFlame selected Claude specifically to meet the stringent requirements of financial institutions. "Financial institutions have very low risk tolerance," said Chu. "From a trust and security perspective, Anthropic was clearly ahead of the competition."
+[How B2B Startup Thirdweb uses AI to 10x SEO Content Workflows](https://www.youtube.com/watch?v=EScZuDhZhbo)
 
-Consistency and reliability were paramount. "Our clients expect deterministic outcomes—they can't afford randomness in their analysis," said Chu. "Through our testing, Claude has proven to be consistently reliable." Claude's vision capabilities were crucial for analyzing financial documents rich with charts and graphs.
+Leap
 
-### Delivering enterprise-grade analysis to lean teams
+Search
 
-BlueFlame's platform democratizes sophisticated analysis capabilities, providing customers:
+Info
 
-- Automated processing of deal room documents
-- Simultaneous comparison of hundreds of companies
-- Portfolio-wide KPI extraction and analysis
-- Generation of tailored investment insights
-- Comprehensive due diligence automation
+Shopping
 
-![BlueFlame product screen](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fad0b91a36a38783e04ce3930cb87627e74147b28-1920x1009.jpg&w=3840&q=75)
+Tap to unmute
 
-![BlueFlame product screen](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Ffeb32b98eb4f862c56d4697d95c25f10bbf71522-1920x1037.jpg&w=3840&q=75)
+If playback doesn't begin shortly, try restarting your device.
 
-The platform doesn't just save time—it enables small teams to perform analysis that was previously impossible without large technical departments. "This isn't just about saving time—we're enabling analysis that was economically unfeasible before," said Lindemann.
+You're signed out
 
-BlueFlame helps teams work smarter by surfacing insights they might have missed. "Our clients know what they want from their data, but they don't always know all the questions to ask," said Lindemann. "We help them discover both questions and answers."
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
 
-This capability has proven transformative for both clients and BlueFlame's business. "We're able to do something unique in the market," said Lindemann. "It's driving client acquisition and retention, while proving that generative AI really works for investment firms."
+CancelConfirm
 
-### Looking forward
+Share
 
-BlueFlame sees AI as key to leveling the playing field in investment analysis. "As teams get more comfortable with the technology and it improves, we see AI playing a bigger role in the investment decision process itself," said Chu.
+Include playlist
 
-The company views their partnership with Anthropic as crucial to realizing their long term vision. "The partnership between Anthropic's horizontal technology and BlueFlame's vertical application delivers the best of both worlds to clients," said Lindemann. Together, they're democratizing institutional-grade analysis capabilities, enabling lean teams to compete effectively in an increasingly sophisticated investment landscape.
+An error occurred while retrieving sharing information. Please try again later.
 
-[Share on Twitter](https://twitter.com/intent/tweet?text=https://www.anthropic.com/customers/blueflame)[Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://www.anthropic.com/customers/blueflame)
+Watch later
+
+Share
+
+Copy link
+
+Watch on
+
+0:00
+
+/ •Live
+
+•
+
+[Watch on YouTube](https://www.youtube.com/watch?v=EScZuDhZhbo "Watch on YouTube")
+
+# Introduction
+
+[Thirdweb](https://thirdweb.com/) is a leading content-first developer platform that enables developers to build, launch and manage web3 projects. As a rapidly growing startup, they faced the challenge of scaling their content production to keep up with their growth and capture more organic search traffic.
+
+To solve this, Thirdweb turned to Leap AI to automate their content workflows. By leveraging AI, Thirdweb was able to scale content production, 10x their SEO output, and free up countless hours of manual work.
+
+"We're saving months, if not more, of manual time and thousands of dollars using Leap". - [Cathal Berragan](https://www.linkedin.com/in/cathal-catty-berragan-8a2270a0/), Head of Marketing at Thirdweb
+
+## How does Thirdweb use AI to automate marketing tasks?
+
+Thirdweb uses Leap AI to automate a variety of marketing workflows:
+
+1. [Create SEO-optimized blogs on trending keywords](https://app.tryleap.ai/templates/generate-seo-blog-with-brand-voice-custom-assets)
+2. [Turn YouTube videos into SEO guides](https://app.tryleap.ai/templates/convert-youtube-videos-into-blog-posts-in-your-brand-voice)
+3. [Create case studies from customer success messages](https://app.tryleap.ai/templates/seo-workflows-manager)
+4. [Generate engaging newsletters](https://app.tryleap.ai/templates/generate-twitter-posts-in-your-brand-voice)
+
+> "We take the link to a YouTube video and it will transcribe the video, use ChatGPT, Claude, other image generation tools, create the SEO metadata, and post to our CMS at the click of a button. There is no manual work."
+
+## How does human creativity combine with AI workflows?
+
+AI is not replacing human creativity at thirdweb. Instead, it is removing the manual tasks required to create content, allowing the team to scale their efforts.
+
+> "This is a really interesting part of AI that isn't replacing human ingenuity or creativity. It's just removing a lot of the manual tasks that are usually required to create this content and helping us scale."
+
+## How does Thirdweb train AI on the company's voice and context?
+
+To maintain consistency and quality, thirdweb trains the AI agents on their existing content.
+
+> "All of the AI agents that we're working with are trained on our existing content. And that's really important because it means that we're cashing in on our previous work. We're using a lot of thought and effort that's gone into our previous work, and we're scaling up that quality."
+
+## What is Google's stance on AI-generated content?
+
+According to Google's latest stance, there is no discrimination between human-produced and AI-generated content. The focus is solely on the quality of the content.
+
+> "We did a lot of research and found Google's latest stance is that there is no discrimination between how the content is produced. It's only about quality. So as long as we know how to use these tools to combine them with our existing thought and work and hours and hours of effort that our technical writers have put into this, then we know we're going to get quality output."
+
+# Conclusion
+
+By embracing AI-powered content workflows, Thirdweb was able to scale their content strategy and drastically improve their SEO performance. Automating manual tasks allowed the marketing team to focus on higher-value activities and make a bigger impact with their efforts.
+
+"AI will make the best marketing teams 100x more effective. Game on." - Cathal Berragan, Head of Marketing at Thirdweb
+
+To learn more about how Thirdweb uses Leap AI to power their content workflows, check out the [full case study video](https://www.youtube.com/watch?v=EScZuDhZhbo). And to start automating your own content workflows, sign up for for [Leap AI](https://www.tryleap.ai/) free.
+
+![Thirdweb Logo](https://www.tryleap.ai/case-studies/%3CBase64-Image-Removed%3E)
+
+# Headquarters
+
+San Francisco, CA
+
+# Size
+
+50-100 Employees
+
+# Industry
+
+Developer Tools
+
+# Website
+
+[https://thirdweb.com](https://thirdweb.com/)
+
+Social Media
+
+[![LinkedIn](https://www.tryleap.ai/assets/logos/LinkedIn.svg)](https://linkedin.com/company/third-web)[![Twitter](https://www.tryleap.ai/assets/logos/Twitter.svg)](https://twitter.com/thirdweb)[![Youtube](https://www.tryleap.ai/assets/logos/Youtube.svg)](https://www.youtube.com/@thirdweb_)
+
+## Ready to automate your workflows?
+
+Your next productivity boost isn't manual labor, it's AI automation.
+Our tools make content creation, data analysis, and task automation
+easy and efficient.
+
+[Get started now](https://app.tryleap.ai/)
+
+td.doubleclick.net
+
+# td.doubleclick.net is blocked
+
+This page has been blocked by an extension
+
+- Try disabling your extensions.
+
+ERR\_BLOCKED\_BY\_CLIENT
+
+null
+
+Reload
+
+This page has been blocked by an extension
+
+![](https://www.tryleap.ai/case-studies/%3CBase64-Image-Removed%3E)![](https://www.tryleap.ai/case-studies/%3CBase64-Image-Removed%3E)td.doubleclick.net
+
+# td.doubleclick.net is blocked
+
+This page has been blocked by an extension
+
+- Try disabling your extensions.
+
+ERR\_BLOCKED\_BY\_CLIENT
+
+null
+
+Reload
+
+This page has been blocked by an extension
+
+![](https://www.tryleap.ai/case-studies/%3CBase64-Image-Removed%3E)![](https://www.tryleap.ai/case-studies/%3CBase64-Image-Removed%3E)td.doubleclick.net
+
+# td.doubleclick.net is blocked
+
+This page has been blocked by an extension
+
+- Try disabling your extensions.
+
+ERR\_BLOCKED\_BY\_CLIENT
+
+null
+
+Reload
+
+This page has been blocked by an extension
+
+![](https://www.tryleap.ai/case-studies/%3CBase64-Image-Removed%3E)![](https://www.tryleap.ai/case-studies/%3CBase64-Image-Removed%3E)

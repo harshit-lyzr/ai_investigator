@@ -14,6 +14,9 @@ from src.config import (
 )
 from src.scrapers.web_loader import WebLoader
 from src.processors.claude_processor import ClaudeProcessor
+from src.processors.openai_processor import OpenaiProcessor
+from src.processors.litellm_processor import LitellmProcessor
+from src.processors.agentapi_processor import AgentAPIProcessor
 from src.scrapers.website_crawler import WebsiteCrawler
 from rich.console import Console
 from rich.table import Table
@@ -57,7 +60,7 @@ async def load_urls_from_csv() -> List[str]:
         logger.error(f"Error loading URLs from CSV: {str(e)}")
         return []
 
-async def process_case_study(web_loader: WebLoader, claude_processor: ClaudeProcessor, url: str, index: int, progress=None):
+async def process_case_study(web_loader: WebLoader, claude_processor: AgentAPIProcessor, url: str, index: int, progress=None):
     """Process a single case study"""
     console.rule(f"Processing Case Study #{index + 1}")
     console.print(f"URL: {url}", style="blue")
@@ -126,7 +129,7 @@ async def process_case_study(web_loader: WebLoader, claude_processor: ClaudeProc
         logger.error(f"Error processing case study #{index + 1}: {str(e)}")
         console.print(f"❌ Error: {str(e)}", style="red")
 
-async def process_website(website_url: str, web_loader: WebLoader, claude_processor: ClaudeProcessor, website_crawler: WebsiteCrawler):
+async def process_website(website_url: str, web_loader: WebLoader, claude_processor: AgentAPIProcessor, website_crawler: WebsiteCrawler):
     """Process an entire website for case studies"""
     try:
         with Progress(
@@ -138,7 +141,7 @@ async def process_website(website_url: str, web_loader: WebLoader, claude_proces
             
             # Find case studies
             case_studies = await website_crawler.find_case_study_links(website_url, claude_processor)
-            
+            print(case_studies)
             if not case_studies:
                 console.print("❌ No case studies found on website", style="red")
                 return
@@ -175,7 +178,7 @@ async def main():
         # Initialize components
         web_loader = WebLoader()
         website_crawler = WebsiteCrawler()
-        claude_processor = ClaudeProcessor()
+        claude_processor = AgentAPIProcessor()
         
         # Show welcome message
         console.print("\n=== AI Enterprise Case Study Analyzer ===", style="bold green")
