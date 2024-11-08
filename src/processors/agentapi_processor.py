@@ -11,10 +11,12 @@ from src.config import (
     REPORTS_CROSS_CASE_DIR,
     REPORTS_EXECUTIVE_DIR
 )
+import streamlit as st
 from lyzr_agent_api.models.chat import ChatRequest
 from dotenv import load_dotenv
 from lyzr_agent_api.client import AgentAPI
 import os
+import pandas as pd
 
 load_dotenv()
 
@@ -175,7 +177,10 @@ class AgentAPIProcessor:
         """Save all reports for a qualified case study"""
         try:
             # Save individual case study report
+
             individual_report_path = Path(REPORTS_INDIVIDUAL_DIR) / f"case_{case_id}.md"
+            with st.expander("Executive Report"):
+                st.markdown(executive_report)
             with open(individual_report_path, "w", encoding="utf-8") as f:
                 f.write(executive_report)
 
@@ -194,6 +199,27 @@ class AgentAPIProcessor:
                 "business_impact": analysis.get("business_impact", {})
             }
 
+            table_data1 = []
+            for case_id, details in cross_case_data.items():
+                row = {
+                    "Case ID": case_id,
+                    "Company Name": details["company"]["name"],
+                    "Industry": details["company"]["industry"],
+                    "Location": details["company"].get("location", "N/A"),
+                    "Technologies": ", ".join(details["technologies"]),
+                    "Scalability": details["success_factors"].get("scalability", "N/A"),
+                    "Ease of Use": details["success_factors"].get("ease_of_use", "N/A"),
+                    "Revenue Increase (%)": details["business_impact"].get("revenue_increase", "N/A"),
+                    "Cost Reduction (%)": details["business_impact"].get("cost_reduction", "N/A")
+                }
+                table_data1.append(row)
+
+            # Creating a DataFrame
+            df1 = pd.DataFrame(table_data1)
+
+            with st.expander("Cross Case Analysis"):
+                st.table(df1)
+
             with open(cross_case_path, "w") as f:
                 json.dump(cross_case_data, f, indent=2)
 
@@ -204,6 +230,21 @@ class AgentAPIProcessor:
                 with open(dashboard_path, "r") as f:
                     dashboard_data = json.load(f)
 
+            table_data2 = []
+            for case_id, details in dashboard_data.items():
+                row = {
+                    "Case ID": case_id,
+                    "Company": details["company"],
+                    "Industry": details["industry"],
+                    "Confidence Score": details["confidence_score"],
+                    "Implementation Scale": details["implementation_scale"],
+                    "Key Technologies": ", ".join(details["key_technologies"])  # Joining list into a string for display
+                }
+                table_data2.append(row)
+
+            # Creating a DataFrame
+            df2 = pd.DataFrame(table_data2)
+
             # Add summary to dashboard
             dashboard_data[f"case_{case_id}"] = {
                 "company": analysis["company_details"]["name"],
@@ -212,6 +253,9 @@ class AgentAPIProcessor:
                 "implementation_scale": analysis["ai_implementation"]["scale"],
                 "key_technologies": analysis["ai_implementation"]["technologies"]
             }
+
+            with st.expander("Executive Dashboard"):
+                st.table(df2)
 
             with open(dashboard_path, "w") as f:
                 json.dump(dashboard_data, f, indent=2)

@@ -28,6 +28,12 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+st.set_page_config(
+    page_title="AI Investigator",
+    layout="wide",  # Set the layout to wide for better use of space
+    initial_sidebar_state="expanded"
+)
+
 async def process_case_study(web_loader: WebLoader, claude_processor: AgentAPIProcessor, url: str, index: int, progress=None):
     with st.spinner(f"Processing Case Study #{index + 1}"):
         st.markdown(f"URL: {url}")
@@ -77,12 +83,7 @@ async def process_case_study(web_loader: WebLoader, claude_processor: AgentAPIPr
                 if executive_report:
                     st.write("💾 Saving reports...")
                     if await claude_processor.save_reports(index, content, analysis, executive_report):
-                        st.success("Reports saved:")
-                        st.write(f"📄 Individual report: `reports/individual/case_{index}.md`")
-                        st.write(
-                            "📊 Updated cross-case analysis: `reports/cross_case_analysis/cross_case_analysis.json`")
-                        st.write(
-                            "📈 Updated executive dashboard: `reports/executive_dashboard/executive_dashboard.json`")
+                        st.success("Reports saved")
                     else:
                         st.error("❌ Failed to save some reports")
                 else:
